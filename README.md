@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/kategory/kategory.svg?branch=master)](https://travis-ci.org/kategory/kategory/)
 [![Kotlin version badge](https://img.shields.io/badge/kotlin-1.1.51-blue.svg)](http://kotlinlang.org/)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftiarebalbi%2Fkategory.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftiarebalbi%2Fkategory?ref=badge_shield)
 
 KΛTEGORY is a library for Typed Functional Programming in Kotlin.
 It includes the most popular data types, type classes and abstractions such as `Option`, `Try`, `Either`, `IO`, `Functor`, `Applicative`, `Monad` and many more empowering users to define pure FP apps and libraries built atop higher order abstractions. Use the below list to learn more about KΛTEGORY's main features.
@@ -129,3 +130,6 @@ idea {
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftiarebalbi%2Fkategory.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftiarebalbi%2Fkategory?ref=badge_large)
